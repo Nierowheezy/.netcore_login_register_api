@@ -1,0 +1,15 @@
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\bin\Debug\net5.0\Auth.WebAPI.Core.deps.json
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\bin\Debug\net5.0\Auth.WebAPI.Core.dll
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\bin\Debug\net5.0\ref\Auth.WebAPI.Core.dll
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\bin\Debug\net5.0\Auth.WebAPI.Core.pdb
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\bin\Debug\net5.0\Auth.WebAPI.DB.dll
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\bin\Debug\net5.0\Auth.WebAPI.DB.pdb
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\obj\Debug\net5.0\Auth.WebAPI.Core.csproj.AssemblyReference.cache
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\obj\Debug\net5.0\Auth.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\obj\Debug\net5.0\Auth.WebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\obj\Debug\net5.0\Auth.WebAPI.Core.AssemblyInfo.cs
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\obj\Debug\net5.0\Auth.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\obj\Debug\net5.0\Auth.WebAPI.Core.csproj.CopyComplete
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\obj\Debug\net5.0\Auth.WebAPI.Core.dll
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\obj\Debug\net5.0\ref\Auth.WebAPI.Core.dll
+C:\Users\Niyi\source\repos\Learn Api Dev\Auth.WebAPI\Auth.WebAPI.Core\obj\Debug\net5.0\Auth.WebAPI.Core.pdb
